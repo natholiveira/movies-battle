@@ -2,13 +2,15 @@
 
 Api Movies Battle aims to provide contracts through an API for a quiz where the user will have to hit the best rated movie on IMDb.
 
+Base url: https://movies-battle-service.herokuapp.com
+
  ## Documentation
  
-[Swagger](https://cyrela-fiap.herokuapp.com/swagger-ui.html#)
+[Swagger](https://movies-battle-service.herokuapp.com/swagger-ui.html#)
 
  ## Technologies
 
-- Java
+- Java 11
 - Spring Boot
 - JUnit 
 - Spring Security
